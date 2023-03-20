@@ -16,3 +16,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a software development engineer (SDE) at Amazon Web Services Shanghai AI Lab, where I work on open source software for graph machine learning. Prior to that, I received my bachelor degree in Honors Math from [NYU Shanghai](https://shanghai.nyu.edu/).
+
+You may find my CV [here](https://mufeili.github.io/assets/pdf/example_pdf.pdf).
