@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>AWS Shanghai AI Lab</a>.
+subtitle: SDE @ AWS Shanghai AI Lab
 
 profile:
   align: right
