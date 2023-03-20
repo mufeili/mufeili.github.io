@@ -259,7 +259,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Li]
+  last_name: Li
   first_name: [Mufei]
 
   style: ieee
