@@ -197,10 +197,77 @@
           <!-- Selected papers -->
           <h2><a href="/publications/" style="color: inherit;">selected publications</a></h2>
           <div class="publications">
-            <ol class="bibliography"><li>
+            <ol class="bibliography">
+<li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"></div>
+        <div class="col-sm-2 abbr"><abbr class="badge">ACS Omega</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="dgllife" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">DGL-LifeSci: An Open-Source Toolkit for Deep Learning on Graphs in Life Science</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Mufei Li</em>, Jinjing Zhou, Jiajing Hu, Wenxuan Fan, Yangkang Zhang, and
+          <span class="more-authors" title="click to view 2 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '2 more authors' ? 'Yaxin Gu, George Karypis' : '2 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '5');
+              ">2 more authors</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>ACS Omega</em>, 2021
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://pubs.acs.org/doi/10.1021/acsomega.1c04017" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+            <a href="https://github.com/awslabs/dgl-lifesci" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-doi="10.1021/acsomega.1c04017"></span>
+              <span class="__dimensions_badge_embed__" data-doi="10.1021/acsomega.1c04017" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 6px;"></span>
+          </div>
+
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">dgllife</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{DGL-LifeSci: An Open-Source Toolkit for Deep Learning on Graphs in Life Science}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Li, Mufei and Zhou, Jinjing and Hu, Jiajing and Fan, Wenxuan and Zhang, Yangkang and Gu, Yaxin and Karypis, George}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2021}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{ACS Omega}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{6}</span><span class="p">,</span>
+  <span class="na">number</span> <span class="p">=</span> <span class="s">{41}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{27233-27238}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{10.1021/acsomega.1c04017}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">arXiv</abbr></div>
 
         <!-- Entry bib key -->
         <div id="wang2019dgl" class="col-sm-8">
@@ -210,19 +277,19 @@
         <div class="author">
         
 
-        Minjie Wang, Da Zheng, Zihao Ye, and
-          <span class="more-authors" title="click to view 12 more authors" onclick="
+        Minjie Wang, Da Zheng, Zihao Ye, Quan Gan, <em>Mufei Li</em>, and
+          <span class="more-authors" title="click to view 10 more authors" onclick="
                 var element = $(this);
                 element.attr('title', '');
-                var more_authors_text = element.text() == '12 more authors' ? 'Quan Gan, Mufei Li, Xiang Song, Jinjing Zhou, Chao Ma, Lingfan Yu, Yu Gai, Tianjun Xiao, Tong He, George Karypis, Jinyang Li, Zheng Zhang' : '12 more authors';
+                var more_authors_text = element.text() == '10 more authors' ? 'Xiang Song, Jinjing Zhou, Chao Ma, Lingfan Yu, Yu Gai, Tianjun Xiao, Tong He, George Karypis, Jinyang Li, Zheng Zhang' : '10 more authors';
                 var cursorPosition = 0;
                 var textAdder = setInterval(function(){
                   element.text(more_authors_text.substring(0, cursorPosition + 1));
                   if (++cursorPosition == more_authors_text.length){
                     clearInterval(textAdder);
                   }
-              }, '10');
-              ">12 more authors</span>
+              }, '5');
+              ">10 more authors</span>
 </div>
 
         <!-- Journal/Book title and date -->
@@ -237,8 +304,8 @@
 
           <!-- Links/Buttons -->
           <div class="links">
+            <a href="http://arxiv.org/abs/https://arxiv.org/abs/1909.01315" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">arXiv</a>
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-            <a href="https://arxiv.org/abs/1909.01315" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
             <a href="https://github.com/dmlc/dgl" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">Code</a>
           </div>
           
@@ -254,12 +321,12 @@
   <span class="na">author</span> <span class="p">=</span> <span class="s">{Wang, Minjie and Zheng, Da and Ye, Zihao and Gan, Quan and Li, Mufei and Song, Xiang and Zhou, Jinjing and Ma, Chao and Yu, Lingfan and Gai, Yu and Xiao, Tianjun and He, Tong and Karypis, George and Li, Jinyang and Zhang, Zheng}</span><span class="p">,</span>
   <span class="na">year</span> <span class="p">=</span> <span class="s">{2019}</span><span class="p">,</span>
   <span class="na">journal</span> <span class="p">=</span> <span class="s">{arXiv preprint arXiv:1909.01315}</span><span class="p">,</span>
-  <span class="na">dimensions</span> <span class="p">=</span> <span class="s">{true}</span>
 <span class="p">}</span></code></pre></figure>
           </div>
         </div>
       </div>
-</li></ol>
+</li>
+</ol>
           </div>
 
 
