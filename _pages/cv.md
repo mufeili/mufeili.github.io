@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /assets/pdf/example_pdf.pdf
+permalink: /assets/pdf/Mufei_Li_CV_220901.pdf
 title: cv
-nav: false
+nav: true
 nav_order: 4
 cv_pdf:
 ---
