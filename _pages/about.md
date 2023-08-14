@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: SDE @ AWS Shanghai AI Lab
+subtitle: PhD Student @ Georgia Institute of Technology
 
 profile:
   align: right
@@ -15,4 +15,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a software development engineer (SDE) at Amazon Web Services (AWS) Shanghai AI Lab, where I work on open source software for graph machine learning. Prior to that, I received my bachelor's degree in Honors Math from [NYU Shanghai](https://shanghai.nyu.edu/).
+I'm a first-year PhD student in machine learning at Georgia Institute of Technology, advised by [Prof. Pan Li](https://sites.google.com/view/panli-purdue/home). Prior to that, I was a software development engineer (SDE) at Amazon Web Services (AWS) Shanghai AI Lab. I received my bachelor's degree in Honors Math from [NYU Shanghai](https://shanghai.nyu.edu/).
