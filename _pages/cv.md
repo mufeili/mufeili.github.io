@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Mufei_Li_CV_231023.pdf
+permalink: /assets/pdf/Mufei_Li_CV_240524.pdf
 title: cv
 nav: true
 nav_order: 4
