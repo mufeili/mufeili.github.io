@@ -897,4 +897,10 @@ d-appendix a:hover, d-appendix a.footnote-backlink:hover {
   font-weight: bold;
 }
 
+.github-stars {
+  font-size: 0.875em;
+  margin-left: 0.5em;
+  color: #666;
+}
+
 /*# sourceMappingURL=main.css.map */
