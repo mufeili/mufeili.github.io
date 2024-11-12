@@ -166,6 +166,9 @@
           {%- endif %}
           {%- if entry.code %}
             <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+            {% if entry.github_stars %}
+            <span class="github-stars" data-github-repo="{{ entry.github_stars }}">...</span>⭐
+            {% endif %}
           {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}
@@ -230,4 +233,5 @@
           </div>
           {%- endif %}
         </div>
+        <script src="{{ '/assets/js/github-stars.js' | relative_url }}"></script>
       </div>
