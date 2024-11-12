@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Check our latest paper on [LayerDAG](https://arxiv.org/abs/2411.02322), a layerwise autoregressive diffusion model for directed acyclic graph!
+Check our new paper on [LayerDAG](https://arxiv.org/abs/2411.02322), a layerwise autoregressive diffusion model for directed acyclic graph!
