@@ -13,3 +13,8 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+.dark-red-text {
+  color: #8B0000;
+  font-weight: bold;
+}
