@@ -772,6 +772,15 @@ pre:active .copy, pre:focus .copy, pre:hover .copy {
   opacity: 1;
 }
 
+.social-icon {
+  /* Match typical Font Awesome icon size. */
+  width: 1em;
+  height: 1em;
+  /* Optionally adjust vertical alignment so it lines up with Font Awesome icons. */
+  vertical-align: -0.125em;
+  fill: currentColor;
+}
+
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
