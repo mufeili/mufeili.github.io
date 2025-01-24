@@ -856,3 +856,12 @@ pre {
     opacity: 1;
   }
 }
+
+.social-icon {
+  /* Match typical Font Awesome icon size. */
+  width: 1em;
+  height: 1em;
+  /* Optionally adjust vertical alignment so it lines up with Font Awesome icons. */
+  vertical-align: -0.125em; 
+  fill: currentColor;
+}
