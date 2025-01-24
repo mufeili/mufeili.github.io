@@ -865,9 +865,3 @@ pre {
   vertical-align: -0.125em; 
   fill: currentColor;
 }
-
-// Ensure inline SVG icons match Font Awesome's color
-.social a svg.social-icon {
-  color: var(--global-text-color);
-  fill: currentColor; 
-}

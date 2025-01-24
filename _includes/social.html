@@ -35,7 +35,9 @@
             <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter"><i class="fab fa-twitter"></i></a>
             {% endif %}
             {%- if site.bluesky_username -%}
-            <a href="https://bsky.app/profile/{{ site.bluesky_username }}" title="Bluesky">
+            <a href="https://bsky.app/profile/{{ site.bluesky_username }}"
+               title="Bluesky"
+               style="color: var(--global-text-color);">
                 {% include icons/bluesky.svg %}
             </a>
             {% endif %}
