@@ -74,6 +74,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: mufeili # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: Mufei_Li # your Twitter handle
+bluesky_username: mufei-li.bsky.social # your Bluesky handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: mufeili # your LinkedIn user name
 telegram_username: # your Telegram user name
