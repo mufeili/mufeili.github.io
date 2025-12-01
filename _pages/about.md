@@ -19,4 +19,5 @@ I'm a third-year PhD student in machine learning at Georgia Institute of Technol
 
 Prior to that, I was a software development engineer (SDE) at Amazon Web Services (AWS) Shanghai AI Lab. I received my bachelor's degree in Honors Math from [NYU Shanghai](https://shanghai.nyu.edu/).
 
+**I am currently seeking research internship opportunities for Summer 2026. Please feel free to reach out if you have any openings!**
 {: .dark-red-text}
